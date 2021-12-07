@@ -1,1 +1,1 @@
-# c_practice
+# c_projects
