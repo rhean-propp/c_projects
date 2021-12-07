@@ -1,4 +1,5 @@
-# First C Program
+// First C Program
+// Program prints to terminal output.
 
 #include<stdio.h>
 
