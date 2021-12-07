@@ -1,4 +1,4 @@
-# README
+# Labs & Projects
 
 Labs contains practice programs.
 
